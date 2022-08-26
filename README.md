@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @travisnode
-- 👀 I’m Node Runner & Crypto Enthusiast
+- 👀 I’m Node Runner.
 - 📫 Contact Me at Discord : Travis#1247
 
 <!---
